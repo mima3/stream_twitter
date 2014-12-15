@@ -41,3 +41,9 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+/*.pyc
+/twitter_stream_shuin.sqlite
+/mecab.txt
+/test.txt
+/cabocha.txt
+/*.sqlite
