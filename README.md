@@ -10,7 +10,7 @@ Python2.7
   
 下記のアプリケーソンをインストール済み  
 ・Mecab（文字コードはUTF-8)  
-・Cabocha  （Windowsの場合、0.66でないと動かないかもしれません）
+・Cabocha 
   
 下記のライブラリをインストール済み  
 ・python_twitter  
